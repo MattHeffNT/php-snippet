@@ -1,0 +1,11 @@
+{
+	
+	"Php tag": {
+	"prefix": "pp",
+	"body": [
+		"<?php \n\n\t$1\n\n?>",
+	],
+	"description": "snippet to add open/close php tag"
+}
+
+}
